@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: GitHubDaxueseng
-baseurl: /blog
+baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
 highlighter: pygments
