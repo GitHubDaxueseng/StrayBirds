@@ -4,6 +4,5 @@ username: GitHubDaxueseng
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
-highlighter: pygments
+pygments: true
 title: 大学僧
-description: 人生到处知何似，应似飞鸿踏雪泥
